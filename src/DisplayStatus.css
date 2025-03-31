@@ -1,0 +1,21 @@
+/* Styling for the status message container */
+.status-message {
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Success message styling */
+.success {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Error message styling */
+.error {
+    background-color: #f44336;
+    color: white;
+}

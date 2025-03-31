@@ -1,0 +1,16 @@
+.list-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 18px;
+}
+
+.list-heading {
+    text-align: center;
+}
+
+.list-paragraph {
+    text-align: center;
+}

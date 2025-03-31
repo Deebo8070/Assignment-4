@@ -1,0 +1,24 @@
+.course-box {
+    padding: 18px;
+    margin: 9px auto;
+    background-color: #e0e8f0;
+    border-radius: 9px;
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.08);
+    max-width: 480px;
+    text-align: center;
+}
+
+.course-box img {
+    width: 95%;
+    height: auto;
+    border-radius: 3px;
+}
+
+.course-box button {
+    padding: 7px;
+    border-radius: 9px;
+    background-color: #003366;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

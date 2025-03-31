@@ -1,0 +1,8 @@
+p.footer{
+    background-color: #003366; /* Slightly darker blue */
+    color: white;
+    text-align: center;
+    padding: 10px; /* Reduced padding */
+    margin-top: 15px; /* Reduced margin */
+    margin-bottom: 0;
+}
